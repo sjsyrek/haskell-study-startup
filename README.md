@@ -41,7 +41,7 @@ Once you're committed to starting a group, you need to find members. Trust me, t
     - [FPChat](https://fpchat-invite.herokuapp.com/)
     - [Code Newbie](https://codenewbie.typeform.com/to/uwswlz)
     - [Elm](https://elmlang.herokuapp.com/)
-    - any other dev-related Slacks [local to your area](https://github.com/ladyleet/tech-community-slacks), whatever the language or focus (for example, in New York City I posted to these Slacks:
+    - any other dev-related Slacks [local to your area](https://github.com/ladyleet/tech-community-slacks), whatever the language or focus—for example, in New York City I posted to these Slacks:
         - [New York Haskell Users Group](http://ny-haskell.herokuapp.com/)
         - [NY JavaScript](https://nyjavascript-slack.herokuapp.com/)
         - [Google Developer Group NYC](http://gdgny.herokuapp.com/)
