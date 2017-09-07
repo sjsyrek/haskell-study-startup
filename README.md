@@ -46,7 +46,7 @@ Once you're committed to starting a group, you need to find members. Trust me, t
         - [NY JavaScript](https://nyjavascript-slack.herokuapp.com/)
         - [Google Developer Group NYC](http://gdgny.herokuapp.com/)
         - [NYCTech](http://www.nyctechslack.com/)
-- [Haskell Mailing Lists](https://wiki.haskell.org/Mailing_lists) - not necessarily a good direct source of students, but possibly useful indirect source if you politely ask the recipients to pass along your note to potentially interested parties
+- [Haskell Mailing Lists](https://wiki.haskell.org/Mailing_lists) - not necessarily a good direct source of students, but possibly a useful indirect source if you politely ask the recipients to pass along your note to potentially interested parties
 - [Social media](https://www.youtube.com/watch?v=CK62I-4cuSY)
     - If you `#haskell` on [Twitter](https://twitter.com/hashtag/haskell?lang=en), you're bound to get some friendly retweets
     - A public post on [Facebook](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/) might get some attention
