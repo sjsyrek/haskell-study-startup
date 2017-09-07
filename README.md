@@ -70,6 +70,15 @@ In addition to the advice and resources contained in this repo, I have previousl
 
 **Your first meeting**
 
+You are likely to attract a large number of people to the first meeting. Most of them will be tourists. In general, you can expect more people to RSVP to all meetings than actually show up. And you can expect a certain rate of attrition over time. For the first meeting, however, do your best to explain the purpose of the study group and how you intend to conduct it. You can field questions if you like, but I wouldn't entertain unsolicited advice, general questions about Haskell, or demands to defend FP in practice.
+
+As quickly as possible, move into the exercises. Since it's the first meeting, a general presentation on lambda calculus could be useful to break the ice, but I'd recommend just doing a quick intro and meet and greet and then divide everyone up into mini-groups to go over their homework, unless you have a very small turnout. You can go over the answers collectively after everyone has had a chance to share their work. It's important to establish group norms at the outset.
+
+**Subsequent meetings**
+
+More or less, do what you did the first week but without the meet and greet. Newcomers will have to catch up on their own, as you can't constantly be assimilating people who couldn't attend from the beginning. In other words, don't be a martyr, but do invite them to take their own initiative to reach out to their peers outside regular meeting times to cover the work they missed. I have found it useful, when going over exercises collectively, to ask everyone to put their computers away and do them over again on the fly. The repetition is salutary and it also engenders group solidarity. Those who did their homework will still struggle a bit to remember their solutions while those who didn't will quickly come to see the error of their ways.
+
+You may optionally prepare a [skeleton code file](https://github.com/sjsyrek/study-haskell-nyc/blob/master/ch17/ch17.hs) to fill in during the meeting. This is where a projector comes in handy. The [`InstanceSigs`](https://downloads.haskell.org/~ghc/8.0.2/docs/html/users_guide/glasgow_exts.html#ghc-flag--XInstanceSigs) GHC extension is especially useful for this purpose. As usual, you should evenly divide your screen real estate between the PDF of the Haskell Book and your REPL and/or code file. Make sure you give everyone a chance to contribute in your meetings, including (perhaps especially) the reluctant, lest a few dominant personalities start to take over. Be patient. Be supportive. Have fun. Go out for a snack or a drink afterward. Carry on.
 
 ### Find an existing study group
 
