@@ -6,12 +6,12 @@
 
 Learning Haskell is a good idea, but you don't have to do it alone. The book _[Haskell Programming from First Principles](http://haskellbook.com/)_ by [Chris Allen](https://twitter.com/bitemyapp) and [Julie Moronuki](https://twitter.com/argumatronic) provides the perfect curriculum for group study. Having started my own study groups to work through this book, I can attest to the efficacy of doing so: it keeps you motivated, it keeps you on track, and it keeps you honest. You may be able to join an existing group, but it's arguably better to start your own, even if you don't feel qualified. I knew practically nothing about Haskell or functional programming when I started my first group in New York City. In fact, I think that's the best possible situation to be in—your learning isn't impeded or your judgment clouded by past experience or irrelevant expectations, and you're able to learn along with fellow novices. You're all in it together! After all, most Haskell developers—we hope—haven't even been born yet. Start learning today, and you'll still be part of the vanguard.
 
-This repo brings together a number of resources for people who would like to start their own Haskell study groups but aren't sure how to do it. Included here is advice for publicizing your group, guidelines for participants, a recommended schedule, and other resources.
-
 ### Using this repo
 
+This repo brings together a number of resources for people who would like to start their own Haskell study groups but aren't sure how to do it. Included here is advice for publicizing your group, guidelines for participants, a recommended schedule, and other resources. If you like what you see, here's what I think you should do:
+
 - If you're starting your own study group, **fork this repo** and modify it for your own purposes. If you do so, I only ask that you respect the spirit in which this material is offered and not attribute to me any substantial changes to the pedagogy or process.
-- Submit a **pull request**, and I'll add your study group to the list down below. Only ask to be added if you intend to (more or less) follow my recommendations.
+- Add a link to your study group to the list below, and submit a **pull request** to this repo to make it public. Only ask to be added if you intend to (more or less) follow my recommendations.
 - In your own repo, I suggest you make the `guidelines.md` file your `README.md` instead, making whatever changes are necessary. You may also link back to this repo if you like.
 
 ### Haskell Book
