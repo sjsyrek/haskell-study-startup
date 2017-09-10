@@ -95,7 +95,7 @@ The following list of study groups have adopted or adapted the format and guidel
 
 **North America**
 
-- [New York, NY](https://github.com/sjsyrek/study-haskell-nyc)
+- [New York, NY](https://github.com/jkachmar/haskell-study-nyc)
 
 ### Resources and references for learning
 
