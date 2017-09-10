@@ -13,6 +13,7 @@ This repo brings together a number of resources for people who would like to sta
 - If you're starting your own study group, **fork this repo** and modify it for your own purposes. If you do so, I only ask that you respect the spirit in which this material is offered and not attribute to me any substantial changes to the pedagogy or process.
 - Add a link to your study group to the [list below](https://github.com/sjsyrek/haskell-study-startup#find-an-existing-study-group), and submit a **pull request** to this repo to make it public. Only ask to be added if you intend to (more or less) follow my recommendations.
 - In your own repo, I suggest you make the `guidelines.md` file your `README.md` instead, making whatever changes are necessary. You may also link back to this repo if you like.
+- Some additional [resources](resources) are included with this repo. Use them. Add more. Expect me to add more over time—maybe.
 
 ### Haskell Book
 
