@@ -91,6 +91,7 @@ The following list of study groups have adopted or adapted the format and guidel
 **Europe**
 
 - [Berlin, Germany](https://github.com/sjsyrek/berlin-functional-programming-group/tree/master/haskell-study-group)
+- [Dublin, Ireland](https://github.com/FintanH/haskell-study-dublin)
 
 **North America**
 
