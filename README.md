@@ -85,6 +85,12 @@ More or less, do what you did the first week but without the meet and greet. New
 
 You may optionally prepare a [skeleton code file](https://github.com/sjsyrek/study-haskell-nyc/blob/master/ch17/ch17.hs) to fill in during the meeting. This is where a projector comes in handy. The [`InstanceSigs`](https://downloads.haskell.org/~ghc/8.0.2/docs/html/users_guide/glasgow_exts.html#ghc-flag--XInstanceSigs) GHC extension is especially useful for this purpose. As usual, you should evenly divide your screen real estate between the PDF of the Haskell Book and your REPL and/or code file. Make sure you give everyone a chance to contribute in your meetings, including (perhaps especially) the reluctant, lest a few dominant personalities start to take over. Be patient. Be supportive. Have fun. Go out for a snack or a drink afterward. Carry on.
 
+**Teaching and participant conduct**
+
+Teaching is something that you may or may not get better at with practice. For most study group coordinators, your best bet is to assume the literal role of _coordinator_ and not try to teach (that is, lecture). You'll have enough to do just making sure your meetings run smoothly. For smaller-scale interactions, try to listen and meet learners on their own terms. [Chris Done](http://chrisdone.com/posts/teaching) has written an interesting blog post on the subject. I'm not completely convinced of the efficacy of the Socratic method, but I certainly agree that it's counter-productive to give away the answers to tough problems.
+
+You should probably decide on some behavioral guidelines for your group beforehand, so participants have at least tacitly agreed to be kind and cooperative. The [Recurse Center's social rules](https://www.recurse.com/manual#sub-sec-social-rules) are a good place to start. If you feel the need to extend my own rather vague formulations, then do so. But never let rules prevent you from enforcing decorum or, conversely, compel you to act against your better judgment.
+
 ### Find an existing study group
 
 The following list of study groups have adopted or adapted the format and guidelines proposed in this repo. Any group may submit a pull request to be added to the list. A listing here does not constitute an endorsement.
