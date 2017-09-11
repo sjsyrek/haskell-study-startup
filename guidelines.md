@@ -47,6 +47,8 @@ You will make every effort to attend the weekly group meetings. Space is limited
 
 In addition to the above, all study group participants are expected to make their best effort at being decent human beings. Participants whose behavior strays too far or too often beyond the reasonable boundaries of respect, kindness, and collegiality may be removed from the group at the discretion of the organizer.
 
+The [Recurse Center](https://www.recurse.com) has a useful set of [social rules](https://www.recurse.com/manual#sub-sec-social-rules) that you should consider in effect for our meetings, too.
+
 ### Format
 
 We will work through chapters 1–18 of the Haskell Book over the course of 12 weeks, meeting for about 2 hours each week. We may extend the meeting schedule to cover subsequent chapters if there is enthusiasm for doing so and the organizer is available.
