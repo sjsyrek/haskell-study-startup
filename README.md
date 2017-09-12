@@ -93,6 +93,10 @@ Teaching is something that you may or may not get better at with practice. For m
 
 You should probably decide on some behavioral guidelines for your group beforehand, so participants have at least tacitly agreed to be kind and cooperative. The [Recurse Center's social rules](https://www.recurse.com/manual#sub-sec-social-rules) are a good place to start. If you feel the need to extend my own rather vague formulations, then do so. But never let rules prevent you from enforcing decorum or, conversely, compel you to act against your better judgment.
 
+**Paying it forward**
+
+Once your study group has wrapped up, what next? You can certainly move on to intermediate or advanced material. Better yet, you can start over again from the beginning. This community needs more people, and there will always be demand for beginner-friendly study groups. If your experience is anything like mine, you'll have had many people find out about your study group too late to join. If you don't want to do it again yourself, an even better solution is to appoint a successful "graduate" of your first study group to run the second one. And so on, and so on. It's the least they can do to repay all your hard work as an organizer, right?
+
 ### Find an existing study group
 
 The following list of study groups have adopted or adapted the format and guidelines proposed in this repo. Any group may submit a pull request to be added to the list. A listing here does not constitute an endorsement.
