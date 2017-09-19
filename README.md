@@ -105,6 +105,7 @@ The following list of study groups have adopted or adapted the format and guidel
 
 - [Berlin, Germany](https://github.com/sjsyrek/berlin-functional-programming-group/tree/master/haskell-study-group)
 - [Dublin, Ireland](https://github.com/FintanH/haskell-study-dublin)
+- [Kyiv, Ukraine](https://github.com/KyivHaskell/haskell-study-group)
 
 **North America**
 
