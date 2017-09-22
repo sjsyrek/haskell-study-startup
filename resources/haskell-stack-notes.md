@@ -43,7 +43,7 @@ If you want to use a specific version of GHC for your global Stack installation,
 
 - `resolver: lts-6.11` for GHC 7.10.3
 - `resolver: lts-7.16` for GHC 8.0.1
-- `resolver: lts-9.3` for GHC 8.0.2
+- `resolver: lts-9.5` for GHC 8.0.2
 
 For project-specific installations of Stack, edit your project's local `stack.yaml` file instead.
 
