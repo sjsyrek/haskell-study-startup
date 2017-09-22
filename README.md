@@ -2,6 +2,8 @@
 
 # Haskell Study Startup
 
+_Please help me [localize](https://github.com/sjsyrek/haskell-study-startup/issues/4) this repo!_
+
 ## Launch your own Haskell study group
 
 Learning Haskell is a good idea, but you don't have to do it alone. The book _[Haskell Programming from First Principles](http://haskellbook.com/)_ by [Chris Allen](https://twitter.com/bitemyapp) and [Julie Moronuki](https://twitter.com/argumatronic) provides the perfect curriculum for group study. Having started my own study groups to work through this book, I can attest to the efficacy of doing so: it keeps you motivated, it keeps you on track, and it keeps you honest. You may be able to join an existing group, but it's arguably better to start your own, even if you don't feel qualified. I knew practically nothing about Haskell or functional programming when I started my first group in New York City. In fact, I think that's the best possible situation to be in—your learning isn't impeded or your judgment clouded by past experience or irrelevant expectations, and you're able to learn along with fellow novices. You're all in it together! After all, most Haskell developers—we hope—haven't even been born yet. Start learning today, and you'll still be part of the vanguard.
