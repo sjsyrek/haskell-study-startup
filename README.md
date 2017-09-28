@@ -111,6 +111,7 @@ The following list of study groups have adopted or adapted the format and guidel
 
 **North America**
 
+- [Madison, WI](https://www.meetup.com/Haskallywags)
 - [New York, NY](https://github.com/jkachmar/haskell-study-nyc)
 - [Denver, CO](https://www.meetup.com/denverfp/)
 - [Vancouver, BC](https://github.com/vanfp/haskell-workshop)
