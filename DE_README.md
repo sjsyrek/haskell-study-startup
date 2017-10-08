@@ -6,7 +6,7 @@ _Bitte hilf mir dabei, diese Repository zu [übersetzen](https://github.com/sjsy
 
 ## Beginne deine eigene Haskell study group
 
-Haskell erlernen ist eine gute Idee, aber du musst es nicht alleine machen. Das Buch _[Haskell Programming from First Principles](http://haskellbook.com/)_ von [Chris Allen](https://twitter.com/bitemyapp) und [Julie Moronuki](https://twitter.com/argumatronic) stellt das perfekte Curriculum für Gruppentraining dar. Da ich bei der Kreation dieses Buchs selbst Trainingsgruppen erstellt habe, kann ich die Wirksamkeit davon bezeugen: Es hält dich motiviert, auf Schiene und ehrlich. Du könntest einer existierenden Gruppe beitreten, aber es ist meist besser, deine eigene zu beginnen, selbst wenn du dich nicht für qualifiziert empfindest. Ich wusste so gut wie gar nichts über Haskell oder funktionale Programmierung als ich meine erste Gruppe in New York City begonnen habe. Ich finde, das ist die bestmögliche Lösung - Dein Lernen ist nicht gestört oder deine Meinung von Erfahrungen oder irrelevanten Erwartungen gestört und du kannst mit anderen Anfängern lernen. Ihr seid alle zusammen! Immerhin sind die meisten Haskell-Entwickler - hoffen wir - noch nicht einmal geboren. Lernen Sie heute, und du wirst immer noch Teil der Vorhut.
+Haskell erlernen ist eine gute Idee, aber du musst es nicht alleine machen. Das _[Haskell Programming from First Principles](http://haskellbook.com/)_ von [Chris Allen](https://twitter.com/bitemyapp) und [Julie Moronuki](https://twitter.com/argumatronic) stellt das perfekte Curriculum für Gruppentraining dar. Da ich bei der Kreation dieses Buchs selbst Trainingsgruppen erstellt habe, kann ich die Wirksamkeit davon bezeugen: Es hält dich motiviert, auf Schiene und ehrlich. Du könntest einer existierenden Gruppe beitreten, aber es ist meist besser, deine eigene zu beginnen, selbst wenn du dich nicht für qualifiziert empfindest. Ich wusste so gut wie gar nichts über Haskell oder funktionale Programmierung als ich meine erste Gruppe in New York City begonnen habe. Ich finde, das ist die bestmögliche Lösung - Dein Lernen ist nicht gestört oder deine Meinung von Erfahrungen oder irrelevanten Erwartungen gestört und du kannst mit anderen Anfängern lernen. Ihr seid alle zusammen! Immerhin sind die meisten Haskell-Entwickler - hoffen wir - noch nicht einmal geboren. Lernen Sie heute, und du wirst immer noch Teil der Vorhut.
 
 ### Verwendung dieser Repository
 
@@ -17,13 +17,13 @@ Diese Repository bringt eine Reihe von Ressourcen für Menschen, die ihre eigene
 - In Ihrer eigenen Repo schlage ich vor, dass Sie die `guidelines.md` Datei zu Ihrer `README.md` machen, um alle Änderungen vorzunehmen. Sie können auch zurück zu dieser Repo verlinken, wenn Sie möchten.
 - In diesem Repo sind einige [Ressourcen](resources) enthalten. Benutzen Sie sie. Fügen Sie welche hinzu. Erwarten Sie, dass ich mehr hinzufüge - vielleicht.
 
-### Haskellbuch
+### Haskellbook
 
 ![](images/haskellbook.png)
 
-_Haskell Programming from First Principles_, auc bekannt als das [Haskellbuch](https://twitter.com/haskellbook?lang=en), ist die Grundlage des von diesem Repo vorgeschlagenen Studiengangs. Erwarten Sie nicht, angemessene Alternativen zu finden. Die Autoren haben in der Vergangenheit Rabatt-Codes für die Mitglieder der Studiengruppen, wie durch die [Leitlinien](guidelines.md) festgelegt. Ich kann aber selbstverständlich keine Rabatte selbst garantieren. Bitte kontaktieren Sie die Autoren und fragen Sie sie direkt - bevor Sie das Angebot an Ihre Gruppe bekannt geben.
+_Haskell Programming from First Principles_, auch bekannt als das [Haskellbook](https://twitter.com/haskellbook?lang=en), ist die Grundlage des von diesem Repo vorgeschlagenen Studiengangs. Erwarten Sie nicht, angemessene Alternativen zu finden. Die Autoren haben in der Vergangenheit Rabatt-Codes für die Mitglieder der Studiengruppen, wie durch die [Leitlinien](guidelines.md) festgelegt. Ich kann aber selbstverständlich keine Rabatte selbst garantieren. Bitte kontaktieren Sie die Autoren und fragen Sie sie direkt - bevor Sie das Angebot an Ihre Gruppe bekannt geben.
 
-### Eröffnen einer Haskell Studiengruppe
+### Eröffnen einer Haskell-Studiengruppe
 
 **Erste Schritte**
 
@@ -68,7 +68,7 @@ Sobald Sie einen Platz gefunden haben, um sich zu treffen, können Sie eine wied
 
 **Pedagogie und Curriculum**
 
-Dieses Repo enthält einen separaten Satz von generischen [Leitlinien] (guidelines.md), einschließlich eines empfohlenen 12-Wochen-Curriculums für die ersten 18 Kapitel des Haskell Buches, die Sie für Ihre eigene Studiengruppe verwenden können. Ich empfehle Ihnen, diese Richtlinien einfach so umzusetzen, wie sie sind und der Versuchung widerstehen, sie "aufzuweichen". So funktioniert das. Natürlich sollten Sie irgendwelche Details hinzufügen, die Ihren Umständen besonders entsprechen. Zum Beispiel Ihre eigenen Meetup-Seite und / oder Slack-Kanäle.
+Dieses Repo enthält einen separaten Satz von generischen [Leitlinien] (guidelines.md), einschließlich eines empfohlenen 12-Wochen-Curriculums für die ersten 18 Kapitel des Haskellbook, die Sie für Ihre eigene Studiengruppe verwenden können. Ich empfehle Ihnen, diese Richtlinien einfach so umzusetzen, wie sie sind und der Versuchung widerstehen, sie "aufzuweichen". So funktioniert das. Natürlich sollten Sie irgendwelche Details hinzufügen, die Ihren Umständen besonders entsprechen. Zum Beispiel Ihre eigenen Meetup-Seite und / oder Slack-Kanäle.
 
 Ob Sie das Curriculum ausstrecken wollen, liegt bei Ihnen. Das erste Mal, als ich eine Studiengruppe hatte, haben wir das ganze Buch, ein Kapitel pro Woche (eines der längeren Kapitel, die wir über zwei Wochen gespalten haben) gelesen. Ich empfehle diesen Ansatz nicht mehr, da es schwer ist, die Leute für über 30 aufeinanderfolgende Wochen zu wöchentlichen Treffen zu begehen. Ich schlage vor, Sie beginnen mit 12 Wochen oder wie viele Sie für angemessen halten, um die ersten 18 Kapitel des Buches zu decken, die Sie durch Monate führt. Das deckt das Anfänger-Material ab. Wenn es Interesse an der Fortsetzung der Studiengruppe gibt, können Sie vorangehen und das nachfolgende Zwischenmaterial abdecken. Es ist auch vollkommen vernünftig zu erwarten, dass die Teilnehmer genug Kompetenz und Disziplin gewonnen haben, um dieses Material auf eigene Faust zu decken.
 
@@ -87,7 +87,7 @@ So schnell wie möglich in die Übungen gehen. Da es das erste Treffen ist, kön
 
 Mehr oder weniger, tu, was du die erste Woche gemacht hast, aber ohne das Treffen. Neulinge müssen auf eigene Faust aufholen, da man sich nicht ständig von Menschen begnügen kann, die von Anfang an nicht teilnehmen konnten. Mit anderen Worten: Sei kein Märtyrer, sondern lade sie ein, ihre eigene Initiative zu ergreifen, um ihre Kollegen außerhalb der regulären Tagungszeiten zu erreichen, um die Arbeit zu decken, die sie verpasst haben. Ich habe es für nützlich gehalten, wenn ich gemeinsam Übungen mache, um alle zu bitten, ihre Computer wegzulegen und sie noch einmal einfach so zu machen. Die Wiederholung ist heilsam und es fördert auch die Solidarität der Gruppe. Diejenigen, die ihre Hausaufgaben gemacht haben, werden immer noch ein bisschen kämpfen, um sich an ihre Lösungen zu erinnern, während diejenigen, die nicht schnell kommen, um den Fehler ihrer Wege zu sehen.
 
-Sie können optional eine [Skeleton-Code-Datei] (https://github.com/sjsyrek/study-haskell-nyc/blob/master/ch17/ch17.hs) vorbereiten, um während der Besprechung auszufüllen. Hier ist ein Projektor praktisch. Die [`InstanceSigs`] (https://downloads.haskell.org/~ghc/8.0.2/docs/html/users_guide/glasgow_exts.html#ghc-flag--XInstanceSigs) GHC-Erweiterung ist besonders nützlich für diesen Zweck. Wie üblich, sollten Sie Ihre Bildschirm-Immobilien zwischen dem PDF des Haskell Buches und Ihrer REPL und / oder Code-Datei gleichmäßig teilen. Stellen Sie sicher, dass Sie jedem eine Chance geben, in Ihren Treffen mitzumachen, darunter (vielleicht besonders) das Widerwillige, damit nicht ein paar dominante Persönlichkeiten übernehmen. Sei geduldig. Unterstützend sein. Habe Spaß. Gehen Sie auf einen Snack oder einen Drink nachher. Weiter.
+Sie können optional eine [Skeleton-Code-Datei] (https://github.com/sjsyrek/study-haskell-nyc/blob/master/ch17/ch17.hs) vorbereiten, um während der Besprechung auszufüllen. Hier ist ein Projektor praktisch. Die [`InstanceSigs`] (https://downloads.haskell.org/~ghc/8.0.2/docs/html/users_guide/glasgow_exts.html#ghc-flag--XInstanceSigs) GHC-Erweiterung ist besonders nützlich für diesen Zweck. Wie üblich, sollten Sie Ihre Bildschirm-Immobilien zwischen dem PDF des Haskellbook und Ihrer REPL und / oder Code-Datei gleichmäßig teilen. Stellen Sie sicher, dass Sie jedem eine Chance geben, in Ihren Treffen mitzumachen, darunter (vielleicht besonders) das Widerwillige, damit nicht ein paar dominante Persönlichkeiten übernehmen. Sei geduldig. Unterstützend sein. Habe Spaß. Gehen Sie auf einen Snack oder einen Drink nachher. Weiter.
 
 **Lehre und Teilnehmerführung**
 
@@ -119,7 +119,7 @@ Die folgende Liste der Studiengruppen hat das in diesem Repo vorgeschlagene Form
 ### Ressourcen und Lernreferenzen
 
 - [haskell-lang.org](https://haskell-lang.org/) - Ein Portal zum Haskell-Ecosystem
-- [How to learn Haskell](https://github.com/bitemyapp/learnhaskell) - Ein Leitfaden für den Einstieg mit Haskell von einem der Autoren des Haskellbuches
+- [How to learn Haskell](https://github.com/bitemyapp/learnhaskell) - Ein Leitfaden für den Einstieg mit Haskell von einem der Autoren des Haskellbook
 - [School of Haskell](https://www.schoolofhaskell.com/) - Einige Tutorials der guten Leute von FP Complete
 - [A Haskell Study Syllabus](https://www.fpcomplete.com/haskell-syllabus) - Auch von FP Complete
 - [HaskellWiki](https://wiki.haskell.org/Haskell) - Artikel über einige Themen
