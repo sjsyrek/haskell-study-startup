@@ -106,16 +106,16 @@ The following list of study groups have adopted or adapted the format and guidel
 **Europe**
 
 - [Berlin, Germany](https://github.com/sjsyrek/berlin-functional-programming-group/tree/master/haskell-study-group)
+- [Delft, Netherlands](https://www.meetup.com/preview/Delft-Haskell-Study-Group)
 - [Dublin, Ireland](https://github.com/FintanH/haskell-study-dublin)
 - [Kyiv, Ukraine](https://github.com/KyivHaskell/haskell-study-group)
-- [Delft, Netherlands](https://www.meetup.com/preview/Delft-Haskell-Study-Group)
 
 **North America**
 
-- [Oakland, CA](https://github.com/xakirax/haskell-study-oakland)
+- [Denver, CO](https://www.meetup.com/denverfp/)
 - [Madison, WI](https://www.meetup.com/Haskallywags)
 - [New York, NY](https://github.com/jkachmar/haskell-study-nyc)
-- [Denver, CO](https://www.meetup.com/denverfp/)
+- [Oakland, CA](https://github.com/xakirax/haskell-study-oakland)
 - [Vancouver, BC](https://github.com/vanfp/haskell-workshop)
 
 ### Resources and references for learning
