@@ -105,15 +105,17 @@ Die folgende Liste der Studiengruppen hat das in diesem Repo vorgeschlagene Form
 
 **Europa**
 
-- [Berlin, Deutschland](https://github.com/sjsyrek/berlin-functional-programming-group/tree/master/haskell-study-group)
-- [Dublin, Irland](https://github.com/FintanH/haskell-study-dublin)
+- [Berlin, Germany](https://github.com/sjsyrek/berlin-functional-programming-group/tree/master/haskell-study-group)
+- [Delft, Netherlands](https://www.meetup.com/preview/Delft-Haskell-Study-Group)
+- [Dublin, Ireland](https://github.com/FintanH/haskell-study-dublin)
 - [Kyiv, Ukraine](https://github.com/KyivHaskell/haskell-study-group)
 
 **Nordamerika**
 
+- [Denver, CO](https://www.meetup.com/denverfp/)
 - [Madison, WI](https://www.meetup.com/Haskallywags)
 - [New York, NY](https://github.com/jkachmar/haskell-study-nyc)
-- [Denver, CO](https://www.meetup.com/denverfp/)
+- [Oakland, CA](https://github.com/xakirax/haskell-study-oakland)
 - [Vancouver, BC](https://github.com/vanfp/haskell-workshop)
 
 ### Ressourcen und Lernreferenzen
