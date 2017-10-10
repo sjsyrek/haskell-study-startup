@@ -2,6 +2,8 @@
 
 # Haskell Study Startup
 
+- [Deutsch](https://github.com/sjsyrek/haskell-study-startup/blob/master/DE_README.md)
+
 _Please help me [localize](https://github.com/sjsyrek/haskell-study-startup/issues/4) this repo!_
 
 ## Launch your own Haskell study group
