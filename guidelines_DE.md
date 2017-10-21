@@ -36,7 +36,7 @@ Wenn Du ein kompletter Anfänger bist, was Programmieren angeht, oder Du aus wel
 
 **Codes für Rabatte** für das Buch sind erhältlich, wenn Du wirklich einen brauchst. Die Autoren wollen nicht, dass der Preis des Buches jemanden davon abhält es zu kaufen, also bitte kontaktiere mich, wenn Du die Kosten nicht stemmen kannst und einen Rabattcode haben willst. Bitte frage nicht nach einem Rabattcode, wenn Du nicht wirklich einen brauchst. Die Anzahl der Rabattcodes ist begrenzt und ich würde sie gerne denen vorbehalten, die sie wirklich brauchen.
 
-###Verhaltensregeln
+### Verhaltensregeln
 
 Mit Deiner Teilnahme an dieser Lerngruppe verpflichtest Du Dich implizit, folgende Verhaltensregeln zu befolgen:
 
@@ -110,7 +110,7 @@ Im [Materialien](resources) Unterverzeichnis diese Repositorys findest Du Folien
 - Kapitel 16 nochmal durchsehen
 - Kapitel 17
 
-**Woche 12. Monden. Wie man Strukturen auf Code anwendet. Abschluss.**
+**Woche 12. Monaden. Wie man Strukturen auf Code anwendet. Abschluss.**
 - Kapitel 17 nochmal durchsehen
 - Kapitel 18
 - Kapitel 19 (ohne Besprechung in der Gruppe)
