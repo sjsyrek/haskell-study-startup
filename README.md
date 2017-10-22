@@ -108,6 +108,7 @@ The following list of study groups have adopted or adapted the format and guidel
 **Europe**
 
 - [Berlin, Germany](https://github.com/sjsyrek/berlin-functional-programming-group/tree/master/haskell-study-group)
+- [Karlsruhe, Germany](https://www.meetup.com/de-DE/Karlsruhe-Haskell-Lerngruppe/)
 - [Delft, Netherlands](https://www.meetup.com/preview/Delft-Haskell-Study-Group)
 - [Dublin, Ireland](https://github.com/FintanH/haskell-study-dublin)
 - [Kyiv, Ukraine](https://github.com/KyivHaskell/haskell-study-group)
