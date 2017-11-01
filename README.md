@@ -3,6 +3,7 @@
 # Haskell Study Startup
 
 - [Deutsch](https://github.com/sjsyrek/haskell-study-startup/blob/master/DE_README.md)
+- [Indonesian](https://github.com/sjsyrek/haskell-study-startup/blob/master/ID_README.md)
 
 _Please help me [localize](https://github.com/sjsyrek/haskell-study-startup/issues/4) this repo!_
 
