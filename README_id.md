@@ -2,8 +2,8 @@
 
 # PERMULAAN BELAJAR HASKELL
 
-- [Deutsch](https://github.com/sjsyrek/haskell-study-startup/blob/master/DE_README.md)
-- [Indonesia](https://github.com/sjsyrek/haskell-study-startup/blob/master/ID_README.md)
+- [Inggris](https://github.com/sjsyrek/haskell-study-startup/blob/master/README.md)
+- [Jerman](https://github.com/sjsyrek/haskell-study-startup/blob/master/README_de.md)
 
 _Tolong bantu saya [lokalisasikan](https://github.com/sjsyrek/haskell-study-startup/issues/4) repo ini!_
 
@@ -18,7 +18,7 @@ Repo ini menyatukan beberapa sumber untu orang yang mau memulai kelompok belajar
 
 - Jika anda memulai kelompok belajar anda sendiri, **fork repo ini** dan modifikasi repo ini sesuai kebutuhan anda. Jika kamu melakukannya, Saya hanya meminta anda untuk menghargai ruh dari materias yang diberikan dan tidak menambahkan kepada saya perubahan apapun terhadap proses atau teknik pengajarannya.
 
-- Tambahkan kelompok belajar anda ke dalam [daftar dibawah ini](https://github.com/sjsyrek/haskell-study-startup#find-an-existing-study-group), dan ajukan **pull request** kepada repo ini untuk menjadikannya publik. Mintakan penambahan hanya jika anda ingin (kurang atau lebih) mengikuti rekomendasi saya. 
+- Tambahkan kelompok belajar anda ke dalam [daftar dibawah ini](https://github.com/sjsyrek/haskell-study-startup#find-an-existing-study-group), dan ajukan **pull request** kepada repo ini untuk menjadikannya publik. Mintakan penambahan hanya jika anda ingin (kurang atau lebih) mengikuti rekomendasi saya.
 - Dalam repo anda sendiri, Saya menyarankan anda untuk membuat berkas `guidelines.md` sebagai berkas `README.md` anda, buatlah perubahan yang anda anggap perlu. Anda mungkin dapat menaruh tautan ke repo ini jika anda suka.
 - Beberapa tambahan [sumber](resources) telah termasuk di dalam repo ini. Gunakan mereka. Tambahkan lagi. are included with this repo. Use them. Add more. Saya berharap untuk menambahkannya lebih banyak secara berangsur-kemungkinan.
 
@@ -26,17 +26,17 @@ Repo ini menyatukan beberapa sumber untu orang yang mau memulai kelompok belajar
 
 ![](images/haskellbook.png)
 
-_Haskell Programming from First Principles_, yang sehari-hari dikenal sebagai the [Haskell Book](https://twitter.com/haskellbook?lang=en), merupakan dasar dari pelajaran kelompok belajar yang ditawarkan repo ini. Jangan mengharapkan untuk mencari alternatif yang memadai. Penulisnya menyediakan kode diskon kepada anggota kelompok belajar sebelumnya seperti yang diindikasikan oleh [panduan](ID_guidelines.md) yang diberikan. Namun saya secara personal tidak dapat memberikan jaminan untuk diskon. Kontak penulisnya dan tanyakan secara pribadi sebelum anda mengumumkan penawaran tersebut ke kelompok anda.
+_Haskell Programming from First Principles_, yang sehari-hari dikenal sebagai the [Haskell Book](https://twitter.com/haskellbook?lang=en), merupakan dasar dari pelajaran kelompok belajar yang ditawarkan repo ini. Jangan mengharapkan untuk mencari alternatif yang memadai. Penulisnya menyediakan kode diskon kepada anggota kelompok belajar sebelumnya seperti yang diindikasikan oleh [panduan](guidelines.md) yang diberikan. Namun saya secara personal tidak dapat memberikan jaminan untuk diskon. Kontak penulisnya dan tanyakan secara pribadi sebelum anda mengumumkan penawaran tersebut ke kelompok anda.
 
 ### Memulai sebuah kelompok belajar Haskell
 
 **Langkah pertama**
 
-Kamu dapat melakukannya semua sendiri, tapi saya menemukan [Meetup](https://www.meetup.com/) sebagai tempat yang bermanfaat dikarenakan efek jaringan yang tersedia didalamnya. Para pengembang dan yang antusias terhadap teknologi sepertinya telah terwakili untuk memulainya disana, dan kelompok anda akan diumumkan kepada semua orang yang sebelumnya memiliki ketertarikan yang sama. Jika kota atau wilayah kamu memiliki Kelompok Pengguna Haskell (seperti Depok Haskell User Group (DHUG) -pent.) atau bahkan kelompok Meetup yang secara tangensial berhubungan, anda sebaiknya bertanya kepada mereka untuk membuat anda sebagai Pembuat Acara sehingga anda dapat menjadwalkan pertemuan anda sendiri dan tidak perlu membayar untuk memulay sebuah Meetup sendiri. Anda mungkin mendapatkan dukungan yang berguna dari komunitas lokal, jadi saya tidak mengharuskannya bergantung pada mereka. Tapi itu tidak menyakitkan untuk menghubungi setiap pengembang Haskell di area anda dan untuk secara personal mendatangi beberapa meetup terkait pemrograman (Haskell atau lainnya) untuk mengumumkan bahwa anda memulai sebuah kelompok belajar. Sentuhan personal tetap terhitung untuk sebuah kesepakatan yang bagus. 
+Kamu dapat melakukannya semua sendiri, tapi saya menemukan [Meetup](https://www.meetup.com/) sebagai tempat yang bermanfaat dikarenakan efek jaringan yang tersedia didalamnya. Para pengembang dan yang antusias terhadap teknologi sepertinya telah terwakili untuk memulainya disana, dan kelompok anda akan diumumkan kepada semua orang yang sebelumnya memiliki ketertarikan yang sama. Jika kota atau wilayah kamu memiliki Kelompok Pengguna Haskell (seperti Depok Haskell User Group (DHUG) -pent.) atau bahkan kelompok Meetup yang secara tangensial berhubungan, anda sebaiknya bertanya kepada mereka untuk membuat anda sebagai Pembuat Acara sehingga anda dapat menjadwalkan pertemuan anda sendiri dan tidak perlu membayar untuk memulay sebuah Meetup sendiri. Anda mungkin mendapatkan dukungan yang berguna dari komunitas lokal, jadi saya tidak mengharuskannya bergantung pada mereka. Tapi itu tidak menyakitkan untuk menghubungi setiap pengembang Haskell di area anda dan untuk secara personal mendatangi beberapa meetup terkait pemrograman (Haskell atau lainnya) untuk mengumumkan bahwa anda memulai sebuah kelompok belajar. Sentuhan personal tetap terhitung untuk sebuah kesepakatan yang bagus.
 
 **Mengumumkan acara keluar**
 
-Setelah anda berkomitmen untuk memulai sebuah kelompok, anda perlu mencari anggota. Percaya pada saya, mereka diluaran sana, menunggu untuk seseorang dengan inisiatif lebih (yaitu anda) untuk mencari mereka. Saya menyarankan untuk melakukan pencarian secara luas. Secara jelas, anda harus mengumumkan keinginan anda untuk sebuah komunitas Haskell dan pemrograman fungsional yang lebih besar. Tapi itu juga merupakan ide bagus untuk menjangkau pengembang manstream, yang mungkin memiliki ketertarikan di FP, dan bahkan non-pengembang, yang mungkin ingin menjelajahi hal baru atau karir baru. Untuk pilihan pertama, dibawah ini adalah saran saya. Untuk yang kemudian, anda harus mencoba untuk melakukan bujukan secara personal, bergantung kepa ucapan atau gunakan imajinasi anda sendiri. 
+Setelah anda berkomitmen untuk memulai sebuah kelompok, anda perlu mencari anggota. Percaya pada saya, mereka diluaran sana, menunggu untuk seseorang dengan inisiatif lebih (yaitu anda) untuk mencari mereka. Saya menyarankan untuk melakukan pencarian secara luas. Secara jelas, anda harus mengumumkan keinginan anda untuk sebuah komunitas Haskell dan pemrograman fungsional yang lebih besar. Tapi itu juga merupakan ide bagus untuk menjangkau pengembang manstream, yang mungkin memiliki ketertarikan di FP, dan bahkan non-pengembang, yang mungkin ingin menjelajahi hal baru atau karir baru. Untuk pilihan pertama, dibawah ini adalah saran saya. Untuk yang kemudian, anda harus mencoba untuk melakukan bujukan secara personal, bergantung kepa ucapan atau gunakan imajinasi anda sendiri.
 
 - [Reddit](https://www.reddit.com/) adalah tempat awal yang baik untuk memulai. Anda harus membagikan tautan Meetup anda kedalam subreddits yang sesuai. Beberapa saran:
     - [haskell](https://www.reddit.com/r/haskell/)
@@ -73,7 +73,7 @@ Begitu anda menemukan tempat untuk berkumpul, anda dapat merancang halaman info 
 
 **Cara Belajar dan Kurikulum**
 
-Repo ini mengandung This repo contains kumpulan [panduan](ID_guidelines.md) dasar yang terpisah, termasuk kurikulum 12 minggu yang direkomendasikan sebagai 18 Bab awal dari Haskell Book, yang mana anda akan gunakan untuk kelompok belajar anda. Saya sangat menyarankan anda untu mengimplementasikan secara sederhana panduan ini sebagaimana adanya dan tahan keinginan untu "mempermudahnya". Panduan ini terbukti bekerja. Tentunya, anda harus menambahkan setiap rincian yang sesuai dengan keadaan anda. Sebagai contoh, halaman Meetup anda sendiri dan/atau channel Slack.
+Repo ini mengandung This repo contains kumpulan [panduan](guidelines.md) dasar yang terpisah, termasuk kurikulum 12 minggu yang direkomendasikan sebagai 18 Bab awal dari Haskell Book, yang mana anda akan gunakan untuk kelompok belajar anda. Saya sangat menyarankan anda untu mengimplementasikan secara sederhana panduan ini sebagaimana adanya dan tahan keinginan untu "mempermudahnya". Panduan ini terbukti bekerja. Tentunya, anda harus menambahkan setiap rincian yang sesuai dengan keadaan anda. Sebagai contoh, halaman Meetup anda sendiri dan/atau channel Slack.
 
 Akan atau tidaknya anda menambah kurikulum adalah terserah pada anda. Pertama kalinya saya menjalankan sebuah kelompok belajar, kami melewait seluruh buku, satu bab seminggu (satu dari beberapa bab yang panjang kami bagi selama dua minggu). Saya tidak lagi merekomendasi pendekatan tersebut, pasalnya sangat susah untuk mengajak orang untuk komitmen pada pertemuan mingguan selama 39 minggu berturut-turut. Saya menyarankan untuk anda memulai dengan 12 minggu atau berapapun yang anda rasa pantas untuk memenuhi 18 bab pertama dari buku ini, yang mana anda akan sampai pada bahasan monad. 18 Bab itu mencakup material untuk tingkat Pemula. Jika ada keinginan untuk melanjutkan kelompok belajar, anda dapat melanjutkannya dan memenuhi materi lanjutan. Sangat disarankan juga untuk mengharapkan peserta untuk mendapatkan kompetensi cukup dan disiplin untuk membaca materi ini sendiri.
 
