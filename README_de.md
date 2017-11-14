@@ -21,7 +21,7 @@ Diese Repository bringt eine Reihe von Ressourcen für Menschen, die ihre eigene
 
 ![](images/haskellbook.png)
 
-_Haskell Programming from First Principles_, auch bekannt als das [Haskellbook](https://twitter.com/haskellbook?lang=en), ist die Grundlage des von diesem Repo vorgeschlagenen Studiengangs. Erwarten Sie nicht, angemessene Alternativen zu finden. Die Autoren haben in der Vergangenheit Rabatt-Codes für die Mitglieder der Studiengruppen, wie durch die [Leitlinien](guidelines.md) festgelegt. Ich kann aber selbstverständlich keine Rabatte selbst garantieren. Bitte kontaktieren Sie die Autoren und fragen Sie sie direkt - bevor Sie das Angebot an Ihre Gruppe bekannt geben.
+_Haskell Programming from First Principles_, auch bekannt als das [Haskellbook](https://twitter.com/haskellbook?lang=en), ist die Grundlage des von diesem Repo vorgeschlagenen Studiengangs. Erwarten Sie nicht, angemessene Alternativen zu finden. Die Autoren haben in der Vergangenheit Rabatt-Codes für die Mitglieder der Studiengruppen, wie durch die [Leitlinien](guidelines_de.md) festgelegt. Ich kann aber selbstverständlich keine Rabatte selbst garantieren. Bitte kontaktieren Sie die Autoren und fragen Sie sie direkt - bevor Sie das Angebot an Ihre Gruppe bekannt geben.
 
 ### Eröffnen einer Haskell-Studiengruppe
 
@@ -68,7 +68,7 @@ Sobald Sie einen Platz gefunden haben, um sich zu treffen, können Sie eine wied
 
 **Pedagogie und Curriculum**
 
-Dieses Repo enthält einen separaten Satz von generischen [Leitlinien] (guidelines.md), einschließlich eines empfohlenen 12-Wochen-Curriculums für die ersten 18 Kapitel des Haskellbook, die Sie für Ihre eigene Studiengruppe verwenden können. Ich empfehle Ihnen, diese Richtlinien einfach so umzusetzen, wie sie sind und der Versuchung widerstehen, sie "aufzuweichen". So funktioniert das. Natürlich sollten Sie irgendwelche Details hinzufügen, die Ihren Umständen besonders entsprechen. Zum Beispiel Ihre eigenen Meetup-Seite und / oder Slack-Kanäle.
+Dieses Repo enthält einen separaten Satz von generischen [Leitlinien] (guidelines_de.md), einschließlich eines empfohlenen 12-Wochen-Curriculums für die ersten 18 Kapitel des Haskellbook, die Sie für Ihre eigene Studiengruppe verwenden können. Ich empfehle Ihnen, diese Richtlinien einfach so umzusetzen, wie sie sind und der Versuchung widerstehen, sie "aufzuweichen". So funktioniert das. Natürlich sollten Sie irgendwelche Details hinzufügen, die Ihren Umständen besonders entsprechen. Zum Beispiel Ihre eigenen Meetup-Seite und / oder Slack-Kanäle.
 
 Ob Sie das Curriculum ausstrecken wollen, liegt bei Ihnen. Das erste Mal, als ich eine Studiengruppe hatte, haben wir das ganze Buch, ein Kapitel pro Woche (eines der längeren Kapitel, die wir über zwei Wochen gespalten haben) gelesen. Ich empfehle diesen Ansatz nicht mehr, da es schwer ist, die Leute für über 30 aufeinanderfolgende Wochen zu wöchentlichen Treffen zu begehen. Ich schlage vor, Sie beginnen mit 12 Wochen oder wie viele Sie für angemessen halten, um die ersten 18 Kapitel des Buches zu decken, die Sie durch Monate führt. Das deckt das Anfänger-Material ab. Wenn es Interesse an der Fortsetzung der Studiengruppe gibt, können Sie vorangehen und das nachfolgende Zwischenmaterial abdecken. Es ist auch vollkommen vernünftig zu erwarten, dass die Teilnehmer genug Kompetenz und Disziplin gewonnen haben, um dieses Material auf eigene Faust zu decken.
 
