@@ -100,7 +100,7 @@ Mengajar adalah sesuatu yang anda akan atau tidak menjadi lebih baik dengan lati
 
 Anda sebaiknya menentukan beberapa panduan kepada kelompok anda sebelumnya, sehingga partisipan setidaknya secara tidak langsung setuju untuk kooperatif dan baik. [Recurse Center's social rules](https://www.recurse.com/manual#sub-sec-social-rules) adalah tempat awal yang baik untuk memulai. Jika anda merasa butuh untuk memperluas formula saya, maka lakukanlah. Namun jangan pernah menjadikan aturan membuat anda tidak sopan atau, sebaliknya, memaksa anda melakukan tindakan yang bertolak belakang dengan penilaian terbaik anda.
 
-**Meneruskannya Kemudian **
+**Meneruskannya Kemudian**
 
 Setelah kelompok belajar anda telah selesai, apa kemudian? Anda dapat berpindah ke materi menengah atau atas. Lebih baik lagi, anda dapat memulai kembali dari awal. Komunitas ini perlu tambahan orang, dan akan selalu ada kebutuhan akan kelompok belajar yang ramah untuk pemula. Jika pengalaman anda seperti saya, anda akan menemukan banyak orang yang baru mengetahui kelompok belajar anda dan terlambat untuk bergabung. Jika anda tidak mau melakukannya lagi sendiri, solusi lain yang lebih baik adalah untuk menunjuk "lulusan" yang sukses pada kelompok belajar pertama anda untuk melakukan kedua kalinya. Dan seterusnya. Ini adalah yang paling sedikit mereka dapat lakukan untuk membayar kerja keras anda sebagai penyelenggara, ya kan?
 
