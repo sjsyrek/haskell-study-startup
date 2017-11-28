@@ -113,6 +113,7 @@ The following list of study groups have adopted or adapted the format and guidel
 - [Delft, Netherlands](https://www.meetup.com/preview/Delft-Haskell-Study-Group)
 - [Dublin, Ireland](https://github.com/FintanH/haskell-study-dublin)
 - [Kyiv, Ukraine](https://github.com/KyivHaskell/haskell-study-group)
+- [Bristol, UK](https://www.meetup.com/CodeHub-Bristol/)
 
 **North America**
 
