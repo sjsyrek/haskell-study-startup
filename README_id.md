@@ -122,6 +122,7 @@ Daftar kelompok belajar berikut telah mengadopsi atau terbiasa dengan format dan
 - [New York, NY](https://github.com/jkachmar/haskell-study-nyc)
 - [Oakland, CA](https://github.com/xakirax/haskell-study-oakland)
 - [Vancouver, BC](https://github.com/vanfp/haskell-workshop)
+- [Charlottesville, VA](https://www.meetup.com/Charlottesville-Haskell-Book-Reading-Group/)
 
 ### Sumber dan referensi untuk belajar
 
