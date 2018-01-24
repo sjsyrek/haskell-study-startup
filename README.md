@@ -122,6 +122,7 @@ The following list of study groups have adopted or adapted the format and guidel
 - [New York, NY](https://github.com/jkachmar/haskell-study-nyc)
 - [Oakland, CA](https://github.com/xakirax/haskell-study-oakland)
 - [Vancouver, BC](https://github.com/vanfp/haskell-workshop)
+- [Charlottesville, VA](https://www.meetup.com/Charlottesville-Haskell-Book-Reading-Group/)
 
 ### Resources and references for learning
 
