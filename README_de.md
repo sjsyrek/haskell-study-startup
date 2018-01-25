@@ -116,6 +116,7 @@ Die folgende Liste der Studiengruppen hat das in diesem Repo vorgeschlagene Form
 - [Madison, WI](https://www.meetup.com/Haskallywags)
 - [New York, NY](https://github.com/jkachmar/haskell-study-nyc)
 - [Oakland, CA](https://github.com/xakirax/haskell-study-oakland)
+- [Sacramento, CA](https://www.meetup.com/Sacramento-Functional-Programming-Group)
 - [Vancouver, BC](https://github.com/vanfp/haskell-workshop)
 - [Charlottesville, VA](https://www.meetup.com/Charlottesville-Haskell-Book-Reading-Group/)
 
