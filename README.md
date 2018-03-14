@@ -117,6 +117,7 @@ The following list of study groups have adopted or adapted the format and guidel
 
 **North America**
 
+- [Albuquerque, NM](https://github.com/fpnm/fpabq)
 - [Denver, CO](https://www.meetup.com/denverfp/)
 - [Madison, WI](https://www.meetup.com/Haskallywags)
 - [New York, NY](https://github.com/jkachmar/haskell-study-nyc)
