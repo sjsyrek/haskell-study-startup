@@ -10,7 +10,7 @@ _Borrowed from [CSE340](https://www.youtube.com/watch?v=KoIdCHDbpMI) at Arizona 
 `(λx. ((x z)(λy. (x y))))`
 
 2. `(λx. x z) λy. w λw. w y z x`  
-`((λx. (x z))(λy. (w (λw. ((((w y) z) x))))))`
+`((λx. (x z))(λy. (w (λw. (((w y) z) x)))))`
 
 3. `λx. x y λx. y x`  
 `(λx. ((x y)(λx. (y x))))`
