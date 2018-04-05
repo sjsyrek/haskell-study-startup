@@ -2,6 +2,10 @@
 
 ## Installation
 
+**Do not ever install the Haskell Platform!**
+
+Install the Haskell language compiler, REPL, and build tool using [Stack](https://docs.haskellstack.org/en/stable/README/).
+
 Visit the [Get Started page on haskell-lang.org](https://haskell-lang.org/get-started) or read the [Stack documentation](https://docs.haskellstack.org/en/stable/README/) for the most up-to-date instructions for installing Haskell using the Stack platform. Avoid using other installation solutions, including any variant of the Haskell Platform.
 
 On other Unix and Unix-like systems, you can generally install directly by using one of the following commands:
@@ -27,23 +31,22 @@ To set up a full project, enter the following commands:
 
 1. `stack new project-name` where `project-name` is whatever you want to call your project
 2. `cd project-name` to switch to the new directory that Stack will have created for your project
-3. `stack setup` to create a basic project framework
-4. `stack build` to compile the project
-5. `stack exec project-name-exe` to run the compiled output
+3. `stack build` to compile the project
+4. `stack exec project-name-exe` to run the compiled output
 
 ## Upgrading Stack or GHC
 
 - `stack update` will update your packages, but you don't generally need to do this manually.
 - `stack upgrade` will reinstall Stack from source, including GHC.
 - `stack config set resolver lts` will update Stack (globally or locally within a project) to the latest LTS
-- `stack config set resolver lts-9.3` will set Stack to use a specific LTS
+- `stack config set resolver lts-11.3` will set Stack to use a specific LTS
 - `stack exec -- ghc --version` will tell you what version of GHC you are using.
 
 If you want to use a specific version of GHC for your global Stack installation, edit your `~/.stack/global-project/stack.yaml` file, and set the resolver to whichever version prefer, for example:
 
 - `resolver: lts-6.11` for GHC 7.10.3
-- `resolver: lts-7.16` for GHC 8.0.1
 - `resolver: lts-9.5` for GHC 8.0.2
+- `resolver: lts-11.3` for GHC 8.2.2
 
 For project-specific installations of Stack, edit your project's local `stack.yaml` file instead.
 
